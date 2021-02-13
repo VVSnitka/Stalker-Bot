@@ -1,2 +1,2 @@
 # Stalker-Bot
-RolePlay 
+**Бот-игра для Discord**
